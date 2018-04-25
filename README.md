@@ -126,3 +126,4 @@ And, with that, you've set up a JSON:API-compliant serialization scheme. Better 
 Congrats! Now get ready for the sequel...
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/js-tictactoe-rails-api-backend'>jQuery Tic-Tac-Toe with a Rails API — Part 1</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG jQuery Tic-Tac-Toe with a Rails API — Part 1</p>

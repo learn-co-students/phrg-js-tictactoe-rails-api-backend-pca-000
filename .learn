@@ -7,3 +7,4 @@ languages:
   - ruby
 orms:
   - activerecord
+parent_template: git@github.com:learn-co-curriculum/js-tictactoe-rails-api-backend.git
